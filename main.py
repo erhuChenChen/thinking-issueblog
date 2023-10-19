@@ -9,7 +9,7 @@ from github import Github
 from lxml.etree import CDATA
 from marko.ext.gfm import gfm as marko
 
-MD_HEAD = """**<p align="center">[Erhuchenchen's Blog](https://blog.leeyom.top)</p>**
+MD_HEAD = """**<p align="center">Erhuchenchen's Blog</p>**
 **<p align="center">天地一逆旅，同悲万古尘。</p>**"""
 
 BACKUP_DIR = "BACKUP"

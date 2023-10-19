@@ -12,7 +12,9 @@ on:
     paths:
       - main.py
 
-
+env:
+  GITHUB_NAME: erhuChenChen
+  GITHUB_EMAIL: 1335802271@qq.com
 
 jobs:
   sync:
